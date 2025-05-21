@@ -13,7 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
-/.app/src/main/java/com/example/testbdd/api/ApiClient.kt
+/app/src/main/java/com/example/testbdd/api/ApiClient.kt
 
 # Fichiers de logs
 *.log
