@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestBdd</string>
+    
+    <!-- Messages généraux -->
+    <string name="error_generic">Une erreur est survenue: %1$s</string>
+    <string name="error_network">Erreur de connexion réseau</string>
+    <string name="error_timeout">La requête a expiré</string>
+    
+    <!-- Messages entreprises -->
+    <string name="error_loading_companies">Erreur lors de la récupération des entreprises</string>
+    <string name="no_companies_found">Aucune entreprise trouvée</string>
+    <string name="title_companies_list">Liste des entreprises</string>
+    <string name="subtitle_companies_list">Sélectionnez une entreprise pour voir sa liste d\'attente</string>
+    <string name="title_waiting_list">Liste d\'attente de %1$s</string>
+    <string name="subtitle_waiting_list">Voici votre liste d\'attente, %1$s</string>
+    
+    <!-- Messages liste d\'attente -->
+    <string name="error_loading_waiting_list">Erreur lors de la récupération de la liste d\'attente (Code: %1$d)</string>
+    <string name="error_updating">Erreur lors de la mise à jour</string>
+    <string name="error_inscription">Erreur lors de l\'inscription</string>
+    <string name="inscription_success">Inscription réussie</string>
+    <string name="button_inscription">S\'inscrire</string>
+    <string name="unknown_company">Entreprise inconnue</string>
+</resources>

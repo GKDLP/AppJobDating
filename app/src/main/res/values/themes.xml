@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TestBdd" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Personnalisation de l'ActionBar -->
+        <item name="actionBarStyle">@style/Widget.App.ActionBar</item>
+        <item name="android:actionBarStyle">@style/Widget.App.ActionBar</item>
+        <!-- Couleurs personnalisées -->
+        <item name="colorPrimary">@color/action_bar_color</item>
+        <item name="colorPrimaryDark">@color/action_bar_color_dark</item>
+    </style>
+
+    <!-- Style personnalisé pour l'ActionBar -->
+    <style name="Widget.App.ActionBar" parent="Widget.Material3.ActionBar.Solid">
+        <item name="titleTextStyle">@style/TextAppearance.App.ActionBar.Title</item>
+        <item name="background">@color/action_bar_color</item>
+        <item name="elevation">4dp</item>
+    </style>
+
+    <!-- Style personnalisé pour le texte du titre -->
+    <style name="TextAppearance.App.ActionBar.Title" parent="TextAppearance.Material3.ActionBar.Title">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/title_text_color</item>
+    </style>
+
+    <style name="Theme.TestBdd" parent="Base.Theme.TestBdd" />
+</resources>
