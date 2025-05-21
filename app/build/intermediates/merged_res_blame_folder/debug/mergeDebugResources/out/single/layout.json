@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-mergeDebugResources-32:\\layout\\activity_ecran_accueil_operateur.xml",
+        "source": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-main-35:\\layout\\activity_ecran_accueil_operateur.xml"
+    },
+    {
+        "merged": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-mergeDebugResources-32:\\layout\\fragment_details_entreprise.xml",
+        "source": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-main-35:\\layout\\fragment_details_entreprise.xml"
+    },
+    {
+        "merged": "com.example.testbdd.app-mergeDebugResources-32:/layout/item_detail_entreprise.xml",
+        "source": "com.example.testbdd.app-main-35:/layout/item_detail_entreprise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-mergeDebugResources-32:\\layout\\fragment_disponibilites_entreprise.xml",
+        "source": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-main-35:\\layout\\fragment_disponibilites_entreprise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-mergeDebugResources-32:\\layout\\activity_ecran_accueil_entreprise.xml",
+        "source": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-main-35:\\layout\\activity_ecran_accueil_entreprise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-mergeDebugResources-32:\\layout\\item_detail_entreprise.xml",
+        "source": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-main-35:\\layout\\item_detail_entreprise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-mergeDebugResources-32:\\layout\\activity_ecran_accueil_candidats.xml",
+        "source": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-main-35:\\layout\\activity_ecran_accueil_candidats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-mergeDebugResources-32:\\layout\\item_entreprise.xml",
+        "source": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-main-35:\\layout\\item_entreprise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-mergeDebugResources-32:\\layout\\item_disponibilite.xml",
+        "source": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-main-35:\\layout\\item_disponibilite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-mergeDebugResources-32:\\layout\\item_operateur.xml",
+        "source": "C:\\Users\\Invite_EPSI\\.gradle\\daemon\\8.11.1\\com.example.testbdd.app-main-35:\\layout\\item_operateur.xml"
+    }
+]

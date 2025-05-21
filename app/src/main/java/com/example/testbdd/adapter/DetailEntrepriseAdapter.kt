@@ -49,8 +49,6 @@ class DetailEntrepriseAdapter(
             val candidat = candidats[detail.id_candidats]
             if (candidat != null) {
                 nomCandidat.text = "${candidat.prenom} ${candidat.nom}"
-            } else {
-                nomCandidat.text = "Candidat ${detail.id_candidats}"
             }
 
             // Afficher le nom de l'entreprise

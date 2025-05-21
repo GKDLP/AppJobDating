@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_color">#FF4081</color>
+    <color name="action_bar_color">#1976D2</color>
+    <color name="action_bar_color_dark">#1565C0</color>
+    <color name="black">#FF000000</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_stroke">#E0E0E0</color>
+    <color name="error_text_color">#B00020</color>
+    <color name="primary_color">#2196F3</color>
+    <color name="primary_dark_color">#1976D2</color>
+    <color name="success_text_color">#4CAF50</color>
+    <color name="title_text_color">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">TestBdd</string>
+    <string name="button_inscription">S\'inscrire</string>
+    <string name="error_generic">Une erreur est survenue: %1$s</string>
+    <string name="error_inscription">Erreur lors de l\'inscription</string>
+    <string name="error_loading_companies">Erreur lors de la récupération des entreprises</string>
+    <string name="error_loading_waiting_list">Erreur lors de la récupération de la liste d\'attente (Code: %1$d)</string>
+    <string name="error_network">Erreur de connexion réseau</string>
+    <string name="error_timeout">La requête a expiré</string>
+    <string name="error_updating">Erreur lors de la mise à jour</string>
+    <string name="inscription_success">Inscription réussie</string>
+    <string name="no_companies_found">Aucune entreprise trouvée</string>
+    <string name="subtitle_companies_list">Sélectionnez une entreprise pour voir sa liste d\'attente</string>
+    <string name="subtitle_waiting_list">Voici votre liste d\'attente, %1$s</string>
+    <string name="title_companies_list">Liste des entreprises</string>
+    <string name="title_waiting_list">Liste d\'attente de %1$s</string>
+    <string name="unknown_company">Entreprise inconnue</string>
+    <style name="Base.Theme.TestBdd" parent="Theme.Material3.DayNight">
+        
+        
+        
+        <item name="actionBarStyle">@style/Widget.App.ActionBar</item>
+        <item name="android:actionBarStyle">@style/Widget.App.ActionBar</item>
+        
+        <item name="colorPrimary">@color/action_bar_color</item>
+        <item name="colorPrimaryDark">@color/action_bar_color_dark</item>
+    </style>
+    <style name="TextAppearance.App.ActionBar.Title" parent="TextAppearance.Material3.ActionBar.Title">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/title_text_color</item>
+    </style>
+    <style name="Theme.TestBdd" parent="Base.Theme.TestBdd"/>
+    <style name="Widget.App.ActionBar" parent="Widget.Material3.ActionBar.Solid">
+        <item name="titleTextStyle">@style/TextAppearance.App.ActionBar.Title</item>
+        <item name="background">@color/action_bar_color</item>
+        <item name="elevation">4dp</item>
+    </style>
+</resources>
